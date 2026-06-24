@@ -5,6 +5,8 @@ pressure-tests whether an annual bookings target is
 achievable — and shows exactly what has to be true 
 to hit it.
 
+**Live demo:** [saas-revenue-sensitivity-model.vercel.app](https://saas-revenue-sensitivity-model.vercel.app)
+
 ---
 
 ## Overview
